@@ -12,3 +12,6 @@ Apk:
 - Dar instalar de todas formas si sale el aviso :)
 
 LINK: https://drive.google.com/file/d/11O8Rhw7S5cR_1e6Np0blL7gHm-PZ_lp7/view?usp=sharing
+
+
+**Autor base de este proyecto: _@Caivan_**
